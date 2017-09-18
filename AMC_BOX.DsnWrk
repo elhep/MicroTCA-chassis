@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PCB_AMC_Box_Backplane\AMC_BOX_Backplane.PrjPCB
+[Project2]
+ProjectPath=PCB_AMC_Box_Panel\AMC_BOX_Panel.PrjPCB
