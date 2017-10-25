@@ -8,7 +8,3 @@ ProjectPath=PCB_AMC_Box_Panel\AMC_BOX_Panel.PrjPCB
 ProjectPath=LCD_Disp\LCD_DIsp.PrjPcb
 [Project4]
 ProjectPath=..\AMC_Dual_Box\amc_ubp_rigid\PCB_AMC_uBACKPLANE_v2\PCB_AMC_uBIF\AMC_uBIF.PrjPcb
-[Project5]
-ProjectPath=..\SINARA\ARTIQ_ALTIUM\PA_8CH\User_Interface\PA_8CH_USER_IFC\PA_8CH_USER_IFC.PrjPcb
-[Project6]
-ProjectPath=..\..\OPTOGENICS\charger_v2.2\Charger_base_station v2.2.PrjPcb
