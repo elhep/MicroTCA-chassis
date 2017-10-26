@@ -7,4 +7,4 @@ ProjectPath=PCB_AMC_Box_Panel\AMC_BOX_Panel.PrjPCB
 [Project3]
 ProjectPath=LCD_Disp\LCD_DIsp.PrjPcb
 [Project4]
-ProjectPath=..\AMC_Dual_Box\amc_ubp_rigid\PCB_AMC_uBACKPLANE_v2\PCB_AMC_uBIF\AMC_uBIF.PrjPcb
+ProjectPath=Common_AMC_Box\Common_AMC_Box.PrjPcb

@@ -124,23 +124,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UWVOTLXQ
 
 [Document6]
-DocumentPath=CPU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=14
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LTPVMLHU
-
-[Document7]
 DocumentPath=clocking.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQJOGWET
 
-[Document8]
+[Document7]
 DocumentPath=Thermal_MGT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWXXMJIL
 
-[Document9]
+[Document8]
 DocumentPath=I2C_SW.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HABVAOQY
 
-[Document10]
+[Document9]
 DocumentPath=I2C_SW.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQYLPAGV
 
-[Document12]
+[Document11]
 DocumentPath=MGT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=AMC_Single_Panel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MELNBLVL
 
-[Document14]
+[Document13]
 DocumentPath=AMC_BOX_Panel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,24 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
-DocumentPath=CPU.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document16]
+[Document14]
 DocumentPath=LCD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKAYXQPY
 
-[Document17]
+[Document15]
 DocumentPath=LCD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document16]
 DocumentPath=AMC_BOX_Panel.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,14 +310,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
-DocumentPath=ETH_PHY_CON.SchDoc
+[Document17]
+DocumentPath=CPU_ETH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=16
+AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -359,10 +325,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FSTDROHL
+DocumentUniqueId=WOANESGY
 
-[Document20]
-DocumentPath=ETH_PHY_CON.Harness
+[Document18]
+DocumentPath=CPU_ETH.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -378,6 +344,44 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document19]
+DocumentPath=Thermal_MGT.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document20]
+DocumentPath=..\Common_AMC_Box\Common_AMC_Box.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AMC_BOX_Panel\Footprint Comparison - AMC_Single_Panel.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -386,6 +390,9 @@ ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
 OutputJobsCount=0
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -770,6 +777,8 @@ OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType6=SinglePinNetReporter
 OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
