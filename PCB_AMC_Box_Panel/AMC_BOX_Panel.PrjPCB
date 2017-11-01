@@ -378,6 +378,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=A99EB204-4011-41D0-99E8-CE0B4B02E40B
+Description=RS232
+AllowFabrication=0
+ParameterCount=0
+VariationCount=16
+Variation1=Designator=R8A|UniqueId=\CXBRRLQH\LRCWWHCF|Kind=1|AlternatePart= 
+Variation2=Designator=R10A|UniqueId=\CXBRRLQH\UDAKDWRF|Kind=1|AlternatePart= 
+Variation3=Designator=R12B|UniqueId=\WHVTHCRJ\EQXOHSUD|Kind=1|AlternatePart= 
+Variation4=Designator=R13B|UniqueId=\WHVTHCRJ\WUTFUMDR|Kind=1|AlternatePart= 
+Variation5=Designator=R14A|UniqueId=\CXBRRLQH\YFDBIJLW|Kind=1|AlternatePart= 
+Variation6=Designator=R15B|UniqueId=\WHVTHCRJ\HRUIQEQM|Kind=1|AlternatePart= 
+Variation7=Designator=R15A|UniqueId=\CXBRRLQH\HRUIQEQM|Kind=1|AlternatePart= 
+Variation8=Designator=R9B|UniqueId=\WHVTHCRJ\SBXDPSGR|Kind=1|AlternatePart= 
+Variation9=Designator=R11B|UniqueId=\WHVTHCRJ\LXYIEEMM|Kind=1|AlternatePart= 
+Variation10=Designator=R14B|UniqueId=\WHVTHCRJ\YFDBIJLW|Kind=1|AlternatePart= 
+Variation11=Designator=R10B|UniqueId=\WHVTHCRJ\UDAKDWRF|Kind=1|AlternatePart= 
+Variation12=Designator=R13A|UniqueId=\CXBRRLQH\WUTFUMDR|Kind=1|AlternatePart= 
+Variation13=Designator=R12A|UniqueId=\CXBRRLQH\EQXOHSUD|Kind=1|AlternatePart= 
+Variation14=Designator=R11A|UniqueId=\CXBRRLQH\LXYIEEMM|Kind=1|AlternatePart= 
+Variation15=Designator=R9A|UniqueId=\CXBRRLQH\SBXDPSGR|Kind=1|AlternatePart= 
+Variation16=Designator=R8B|UniqueId=\WHVTHCRJ\LRCWWHCF|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for AMC_BOX_Panel\Footprint Comparison - AMC_Single_Panel.html
 DItemRevisionGUID=
