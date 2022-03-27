@@ -3,8 +3,8 @@ Version=1.0
 [Project1]
 ProjectPath=PCB_AMC_Box_Backplane\AMC_BOX_Backplane.PrjPCB
 [Project2]
-ProjectPath=PCB_AMC_Box_Panel\AMC_BOX_Panel.PrjPCB
-[Project3]
 ProjectPath=LCD_Disp\LCD_DIsp.PrjPcb
+[Project3]
+ProjectPath=PCB_AMC_Box_Mainboard\AMC_Box_Mainboard.PrjPCB
 [Project4]
 ProjectPath=Common_AMC_Box\Common_AMC_Box.PrjPcb
