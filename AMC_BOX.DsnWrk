@@ -8,3 +8,9 @@ ProjectPath=LCD_Disp\LCD_DIsp.PrjPcb
 ProjectPath=PCB_AMC_Box_Mainboard\AMC_Box_Mainboard.PrjPCB
 [Project4]
 ProjectPath=Common_AMC_Box\Common_AMC_Box.PrjPcb
+[Project5]
+ProjectPath=..\..\Sinara_ALTIUM\Accessories\PCB_SATA_SFP\PCB_SATA_SFP.PrjPcb
+[Project6]
+ProjectPath=..\..\SensorBox\Sensor_Box_Hardware\Sensor-Box\Sensor_Box_LoRa_Flower_Wachdog\Sensor_LoRa_Moist.PrjPCB
+[Project7]
+ProjectPath=..\..\SensorBox\Sensor_Box_Hardware\Sensor-Box\Sensor_Box_LoRa_Flower_Wachdog v1.0\Sensor_LoRa_Flower_Watchdog.PrjPCB
